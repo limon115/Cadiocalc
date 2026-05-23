@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle Golden Bezel Ring -->
+    <path
+        android:pathData="M54,18 A36,36 0 1,1 53.99,18 Z"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFD700"
+        android:fillColor="#00000000" />
+
+    <!-- Sleek Grid / Keyboard Lines at the bottom of the circle representing physical key matrix -->
+    <path
+        android:pathData="M30,68 L78,68 M35,76 L73,76 M42,84 L66,84"
+        android:strokeWidth="1.5"
+        android:strokeColor="#44FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- The textbook radical (square root) and "x" symbol in the center of the icon -->
+    <!-- Root Radical sign -->
+    <path
+        android:pathData="M34,48 L39,48 L44,58 L52,36 L70,36"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Letter 'x' math style print -->
+    <path
+        android:pathData="M56,43 L64,55 M64,43 L56,55"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFD700"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+</vector>

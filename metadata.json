@@ -1,0 +1,6 @@
+{
+  "name": "ClassWiz fx-991CW",
+  "description": "Premium native clone of the Casio ClassWiz fx-570CW/991CW scientific calculator with a gorgeous liquid-glass UI, natural textbook mathematical rendering, and rich execution applets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
